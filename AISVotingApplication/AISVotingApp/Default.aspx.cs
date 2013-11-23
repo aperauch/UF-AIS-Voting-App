@@ -31,6 +31,8 @@ namespace AISVotingApp
                     }
                     else
                         Response.Redirect("VotingHome.aspx");
+
+                    Error.Text = "";
                 }
                 else
                     Error.Text = "Invalid UFID or Password";

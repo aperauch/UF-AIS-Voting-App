@@ -3,9 +3,3 @@ C:\Users\Gaurav\documents\visual studio 2010\Projects\AISVotingApplication\AISVo
 C:\Users\Gaurav\documents\visual studio 2010\Projects\AISVotingApplication\AISVotingApp\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Gaurav\documents\visual studio 2010\Projects\AISVotingApplication\AISVotingApp\obj\Debug\AISVotingApp.dll
 C:\Users\Gaurav\documents\visual studio 2010\Projects\AISVotingApplication\AISVotingApp\obj\Debug\AISVotingApp.pdb
-C:\Users\aaperauch\Downloads\AISVotingApplication\AISVotingApp\bin\AISVotingApp.dll.config
-C:\Users\aaperauch\Downloads\AISVotingApplication\AISVotingApp\bin\AISVotingApp.dll
-C:\Users\aaperauch\Downloads\AISVotingApplication\AISVotingApp\bin\AISVotingApp.pdb
-C:\Users\aaperauch\Downloads\AISVotingApplication\AISVotingApp\obj\Debug\AISVotingApp.csprojResolveAssemblyReference.cache
-C:\Users\aaperauch\Downloads\AISVotingApplication\AISVotingApp\obj\Debug\AISVotingApp.dll
-C:\Users\aaperauch\Downloads\AISVotingApplication\AISVotingApp\obj\Debug\AISVotingApp.pdb
